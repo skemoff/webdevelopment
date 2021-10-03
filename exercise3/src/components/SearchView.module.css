@@ -1,0 +1,5 @@
+.itemGrid
+{
+  display: flex;
+  flex-wrap: wrap;
+}

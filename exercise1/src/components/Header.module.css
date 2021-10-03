@@ -1,0 +1,14 @@
+.container {
+    display:flex;
+    width: 80%;
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: 700;
+    align-items: center;
+    padding: 15px;
+    padding-left: 200px;
+    justify-content: space-evenly;
+}
+.headerBackground {
+    background-color: rgb(0,25,76);
+}

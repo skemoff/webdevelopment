@@ -1,0 +1,29 @@
+.newsBox{
+    background-color: rgb(200,200,200);
+    margin-left: auto;
+    margin-right: 39.2%;
+    width: 40%;
+    padding: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.newsTitle{
+    font-size: 30px;
+    font-weight: 700;
+}
+.newsMainImage{
+    height: 400px;
+    width: auto;
+}
+.newsSubImage{
+    height: 75px;
+}
+.subTitle{
+    color: rgb(183,56,75);
+    font-size: 30px;
+    font-weight: 500;
+}
+.subNews{
+    font-size: 25px;
+    font-weight: 500;  
+
+}

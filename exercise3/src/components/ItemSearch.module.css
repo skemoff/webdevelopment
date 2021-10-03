@@ -1,0 +1,31 @@
+.vendor
+{
+  font-family: sans-serif;
+  font-weight: 500;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  font-size: 18px;
+  color: darkred;
+}
+.itemName
+{
+  color: black;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.item
+{
+  width: 500px;
+  box-sizing: border-box;
+  padding: 30px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin: 3px
+}
+
+.price
+{
+font-weight: 700;
+font-size: 17px;
+}

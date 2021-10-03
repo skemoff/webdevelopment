@@ -1,0 +1,17 @@
+.newsBackground{
+    background-color: rgb(65, 150, 164);
+    color:white;
+    font-weight: 500;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3px;
+    margin-top: 3px;
+    padding: 15px;
+    font-size: 15px;
+}
+
+.newsHeader{
+    font-size: 16px;
+    font-weight: 700;
+}

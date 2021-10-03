@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "RTX 3080",
+      "vendor": "MSI",
+      "price": 2000,
+      "rating": 4.5,
+      "image": "rtx3080.jpg"
+
+    },
+    {
+      "id": 2,
+      "name": "Vive Pro",
+      "vendor": "HTC",
+      "price": 699.99,
+      "rating": 4,
+      "image": "vive.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Trident Z NEO 32GB",
+      "vendor": "G.Skill",
+      "price": 349.99,
+      "rating": 5,
+      "image": "gskill.png"
+    },
+    {
+      "id": 4,
+      "name": "GT2860RS",
+      "vendor": "Garrett",
+      "price": 1010.74,
+      "rating": 5,
+      "image": "garrett.png"
+    },
+    {
+      "id": 5,
+      "name": "10mm Combination Wrench",
+      "vendor": "TEKTON",
+      "price": 9.27,
+      "rating": 5,
+      "image": "10mm.png"
+    },
+    {
+      "id": 6,
+      "name": "ROG Swift 360hz PG259QN",
+      "vendor": "Asus",
+      "price": 629.99,
+      "rating": 5,
+      "image": "asus.png"
+    }
+  ]
+}
